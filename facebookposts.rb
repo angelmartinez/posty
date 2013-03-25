@@ -1,8 +1,5 @@
 require 'HTTParty'
 require 'csv'
-require 'rubygems'
-require 'ruby-progressbar'
-require 'active_support/all'
 
 # Enter brand name here
 puts ('Enter the brand that you want to look at (example: ge, doveus, microsoft): ')
